@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Animadversions on the Lady Marquess: or, properties display'd. View here the abstract of the worlds great frame, whose worth for ever morraliz'd a name; whose noble gen'rous parts, I dare to say, will get renown, the clean contrary way. Tune of, Hey boys up go we.</title>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17107</idno><idno type="EEBO-CITATION">99888082</idno>
+  <idno type="VID">193142</idno>
+  <idno type="EEBO-PROQUEST">2240896348</idno>
+  
+            <idno type="STC">Wing A3196</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[918]</idno>
+            <idno type="STC">ESTC R228999</idno>
+            <idno type="PROQUEST">ocm99888082</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888082e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17107)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193142)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:1[544])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Animadversions on the Lady Marquess: or, properties display'd. View here the abstract of the worlds great frame, whose worth for ever morraliz'd a name; whose noble gen'rous parts, I dare to say, will get renown, the clean contrary way. Tune of, Hey boys up go we.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Jordon, at the Angel in Guilt-Spur-street,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Verse: "The Lady Marquess and her gang,".</note>
+                  <note>Printed in two columns.</note>
+                  <note>Imperfect: dark copy, obscuring text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:193142:1"/>
+            <head>
+               <hi>Animadversions on the Lady</hi> Marquess: OR, Properties Display'd.</head>
+            <head type="sub">
+               <q>
+                  <l>View here the abstract of the Worlds great Frame,</l>
+                  <l>Whose worth for ever Morraliz'd a Name;</l>
+                  <l>Whose noble gen'rous parts, I dare to say,</l>
+                  <l>
+                     <hi>Will get Renown,</hi> the clean contrary way:</l>
+               </q>
+            </head>
+            <opener>
+               <hi>Tune of,</hi> Hey Boys up go we.</opener>
+            <lg>
+               <l>THe Lady <hi>Marquess</hi> and her gang,</l>
+               <l>are most in favour seen;</l>
+               <l>With Coach and Men on them to tend,</l>
+               <l>as if she were a Queen:</l>
+               <l>But if she be, 'tis of the Sluts,</l>
+               <l>for all her fine Array,</l>
+               <l>Whose Honour reaches to the Skies,</l>
+               <l>
+                  <hi>But the clear contrary way.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>They have their choice of Musick sweet,</l>
+               <l>which doth their senses Charm;</l>
+               <l>And there they sit like Saints to be,</l>
+               <l>as if they knew no harm:</l>
+               <l>But they can fit them to a Hair,</l>
+               <l>by night or else by day;</l>
+               <l>And so they think to get Renown,</l>
+               <l>
+                  <hi>But the clear contrary way.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This House to them is like a Change,</l>
+               <l>where all things may be had;</l>
+               <l>A Glass of Wine to chear their heart,</l>
+               <l>'twill make their senses glad:</l>
+               <l>There is a Proverb, <hi>If you Dance,</hi>
+               </l>
+               <l>
+                  <hi>the Fidler you must pay;</hi>
+               </l>
+               <l>At length it may their Fortune raise,</l>
+               <l>
+                  <hi>But the clear contrary way.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Tis not his Musick nor his Wine,</l>
+               <l>that makes them for to run,</l>
+               <l>There is something else within the case,</l>
+               <l>which is needful to be done:</l>
+               <l>The which i'le give you leave to judge,</l>
+               <l>in truth to you it may</l>
+               <l>There's few returns a Ma<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>When hey boys down go they.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There is an ill report abroad,</l>
+               <l>which never yet was before;</l>
+               <l>What female Sex goes there are lookt upon</l>
+               <l>to be no better then a common Whore:</l>
+               <l>For if you should your Pipkin crack,</l>
+               <l>your Credit will away;</l>
+               <l>And must curse the hour so rudely spent,</l>
+               <l>
+                  <hi>When hey boys in went they.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When once your Reputation's lost,</l>
+               <l>'twere better you then were dead;</l>
+               <l>Then for to say there goes a Maid,</l>
+               <l>that has lost her Maiden-head:</l>
+               <l>Therefore in time consider well on't,</l>
+               <l>lest you should go astray;</l>
+               <l>When 'tis too late you may repent,</l>
+               <l>
+                  <hi>That hey boys in went they.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> J. Jordan, <hi>at the</hi> Angel <hi>in</hi> Guilt-Spur-street.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
